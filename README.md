@@ -7,8 +7,9 @@ I am passionate about giving life and functionality to beautiful designs and dri
  </samp>
  <br>
  <br>
+- :rocket: Currently, I’m daily working on [Microverse Program]( http://www.microverse.org) to improve my skills while developing projects in Pair Programming with developers from all over the globe.
 
-[![Mari Roque's github stats](https://github-readme-stats.vercel.app/api?username=marilenaroque)](https://github.com/MarilenaRoque)
+
 
 ### Languages and Tools:
 
@@ -28,7 +29,7 @@ I am passionate about giving life and functionality to beautiful designs and dri
 
 <hr>
 
-- :rocket: Currently, I’m daily working on [Microverse Program]( http://www.microverse.org) to improve my skills while developing projects in Pair Programming with developers from all over the globe.
+
 
 ### I am currently available for hire or freelance projects. So feel free to check out my projects and **let's connect**!!!
 
@@ -39,4 +40,6 @@ I am passionate about giving life and functionality to beautiful designs and dri
 - :mailbox: marilenas@id.uff.br
 
  Constructive feedbacks about my code are always welcome too. :smiley:
+ 
+ [![Mari Roque's github stats](https://github-readme-stats.vercel.app/api?username=marilenaroque)](https://github.com/MarilenaRoque)
 
