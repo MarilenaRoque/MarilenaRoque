@@ -21,14 +21,14 @@ I am passionate about giving life and functionality to beautiful designs and dri
 <img align="left" alt="Visual Studio Code" width="56px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
-### And Counting... I always appreciate opportunities to learn something new. 
+<p> And Counting... I always appreciate opportunities to learn something new. </p>
 
 <br>
 <br>
 
 <hr>
 
--:rocket: Currently, I’m daily working on [Microverse Program]( http://www.microverse.org) to improve my skills while developing projects in Pair Programming with developers from all over the globe.
+- :rocket: Currently, I’m daily working on [Microverse Program]( http://www.microverse.org) to improve my skills while developing projects in Pair Programming with developers from all over the globe.
 
 ### I am currently available for hire or freelance projects. So feel free to check out my projects and **let's connect**!!!
 
