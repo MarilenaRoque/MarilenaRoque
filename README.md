@@ -8,6 +8,12 @@ I am passionate about giving life and functionality to beautiful designs and dri
 
  <hr>
 - :rocket: Currently, I’m daily working on <a href="http://www.microverse.org"> Microverse Program </a> to improve my skills while developing projects in Pair Programming with developers from all over the globe.
+- :woman: As a lifelong learner, I enjoy being on environments where I can contribute with my work and also learn new things.
+
+<br />
+<br />
+
+---
 
 
 
