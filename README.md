@@ -3,11 +3,11 @@
  <img src="http://quoteapic.com/wp-content/uploads/2017/03/work-survaival.gif" height=250px align=right>
  
 <samp>
-I am passionate about giving life and functionality to beautiful designs and driven by the challenges of process and store data on the backend! :rocket:
+I am passionate about giving life and functionality to beautiful designs and driven by the challenges of process and store data on the backend!
  </samp>
- <br>
- <br>
-- :rocket: Currently, I’m daily working on [Microverse Program]( http://www.microverse.org) to improve my skills while developing projects in Pair Programming with developers from all over the globe.
+
+ <hr>
+- :rocket: Currently, I’m daily working on <a href="http://www.microverse.org"> Microverse Program </a> to improve my skills while developing projects in Pair Programming with developers from all over the globe.
 
 
 
@@ -22,7 +22,7 @@ I am passionate about giving life and functionality to beautiful designs and dri
 <img align="left" alt="Visual Studio Code" width="56px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
-<p> And Counting... I always appreciate opportunities to learn something new. </p>
+### And Counting... I always appreciate opportunities to learn something new.
 
 <br>
 <br>
