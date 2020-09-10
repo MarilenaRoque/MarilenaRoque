@@ -31,7 +31,7 @@ I am passionate about giving life and functionality to beautiful designs and dri
  </div
 
 
-
+<sample> And counting, I always appreciate the opportunity to learn new things </sample>
 
 
 ### I am currently available for hire or freelance projects. So feel free to check out my projects and **let's connect**!!!
