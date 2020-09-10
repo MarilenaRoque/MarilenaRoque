@@ -1,6 +1,6 @@
 
  # Hi Folks! I am Mari Roque, a Fullstack Developer. :robot:
- <img src="/assets/coffeecode.gif" height=250px align=right>
+ <img src="./assets/coffeecode.gif" height=250px align=right>
  
 <samp>
 Passionated about giving life and functionality to beautiful designs and driven by the challenges of process and store data on the backend! :rocket:
