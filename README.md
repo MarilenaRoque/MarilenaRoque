@@ -37,10 +37,11 @@ I am passionate about giving life and functionality to beautiful designs and dri
 ### I am currently available for hire or freelance projects. So feel free to check out my projects and **let's connect**!!!
 
 
-- Github: [MarilenaRoque](https://github.com/MarilenaRoque)
-- Twitter: [@MariRoq88285995](https://twitter.com/MariRoq88285995)
-- Linkedin: [roquemarilena](https://www.linkedin.com/in/roquemarilena/)
-- :mailbox: marilenas@id.uff.br
+### - Github: [MarilenaRoque](https://github.com/MarilenaRoque)
+### - Twitter: [@MariRoq88285995](https://twitter.com/MariRoq88285995)
+### - Linkedin: [roquemarilena](https://www.linkedin.com/in/roquemarilena/)
+### - :mailbox: marilenas@id.uff.br
+### - Personal Portfolio [Check it out!](https://mariroqueproject.com/)
 
  Constructive feedbacks about my code are always welcome too. :smiley:
  
